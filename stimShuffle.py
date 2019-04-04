@@ -17,6 +17,21 @@ if subNum % 4 < 2:
 	responses = ['f','j']
 else:
 	responses = ['j','f']
+# Open practice stim file
+f = open('SWOPstims\\practice.txt','r')
+g = csv.reader(f,delimiter = '\t')
+h = open('SWOPstims\\stimTextFiles\\practiceBlock.txt','w')
+for line in g:
+    if line[4] == '1': # Condition column: 1 = Violation, 2 = Canonical
+        line[-1] = responses[0]
+    elif line[4] == '2':
+        line[-1] = responses[1]
+    txtLine = '\t'.join(line)
+    h.write(txtLine)
+    h.write('\n')	
+
+f.close()
+h.close()
 # Open stim file	
 #f = open(''.join(['ERP_stims\\stimList',str(listNum),'.txt']),'r')
 f = open(''.join(['SWOPstims\\stimList',str(listNum),'.txt']),'r')	
@@ -53,8 +68,8 @@ for block in range(20): # 24 categories x 20 blocks = 480 items
 		newStim.append(sent) # Add sentences to stimulus list
 # Save text files and subject flag		
 f.close()
-f = open(''.join(['SWOPstims\\stimTextFiles\\SUBJECT',str(subNum),'.txt']),'w')
-f.close()
+# f = open(''.join(['SWOPstims\\stimTextFiles\\SUBJECT',str(subNum),'.txt']),'w')
+# f.close()
 for block in range(1,3):
 	f = open(''.join(['SWOPstims\\stimTextFiles\\stimBlock',str(block),'.txt']),'w')
 	f.write('\t'.join(allItems[0]))
@@ -72,15 +87,15 @@ for line in newStim:
 f.close()
 
 # Save instructions
-f = open('SWOPstims\\stimTextFiles\\expInstr.txt','r')	
+if responses[0] == 'f':
+    f = open('SWOPstims\\expInstrJ.txt','r')	
+else:
+    f = open('SWOPstims\\expInstrF.txt','r')
 g = csv.reader(f,delimiter = '\t')
-f2 = open(''.join(['ERP_stims\\expInstr',str(subNum),'.txt']),'w')
-instr1 = ' '.join(["If it's good, press %s."%responses[1], str('\n'), "If it's bad, press %s."%responses[0],str('\n\n'),"Appuyez sur ESPACE pour continuer."])
+f2 = open(''.join(['SWOPstims\\stimTextFiles\\expInstr',str(subNum),'.txt']),'w')
+
 for line in g:
-	if line[3] == "%%%":
-		line[3] = instr1
 	f2.write('\t'.join(line))
 	f2.write('\n')
-
 f.close()
 f2.close()
