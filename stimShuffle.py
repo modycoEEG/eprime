@@ -1,6 +1,7 @@
 import os, csv, random
 
-os.chdir('C:\\Users\\jdyea\\OneDrive\\MoDyCo\\SWOP')
+#os.chdir('C:\\Users\\jdyea\\OneDrive\\MoDyCo\\SWOP')
+os.chdir('C:\\Users\\S2CH\\Documents\\GitHub\\eprime')
 #%%
 catLabels = [112,114,122,124,131,132,133,134,141,142,143,144,212,214,222,224,
 			 231,232,233,234,241,242,243,244]
@@ -17,7 +18,8 @@ if subNum % 4 < 2:
 else:
 	responses = ['j','f']
 # Open stim file	
-f = open(''.join(['ERP_stims\\stimList',str(listNum),'.txt']),'r')	
+#f = open(''.join(['ERP_stims\\stimList',str(listNum),'.txt']),'r')
+f = open(''.join(['SWOPstims\\stimList',str(listNum),'.txt']),'r')	
 g = csv.reader(f,delimiter = '\t')
 # Assign correct reponses to items
 allItems = []
@@ -51,10 +53,10 @@ for block in range(20): # 24 categories x 20 blocks = 480 items
 		newStim.append(sent) # Add sentences to stimulus list
 # Save text files and subject flag		
 f.close()
-f = open(''.join(['stimTextFiles\\SUBJECT',str(subNum),'.txt']),'w')
+f = open(''.join(['SWOPstims\\stimTextFiles\\SUBJECT',str(subNum),'.txt']),'w')
 f.close()
 for block in range(1,3):
-	f = open(''.join(['stimTextFiles\\stimBlock',str(block),'.txt']),'w')
+	f = open(''.join(['SWOPstims\\stimTextFiles\\stimBlock',str(block),'.txt']),'w')
 	f.write('\t'.join(allItems[0]))
 	f.write('\n')
 	for sent in newStim[:240]:
@@ -63,14 +65,14 @@ for block in range(1,3):
 	f.close()
 
 # Save trial order for subject
-f = open(''.join(['subjectStims\\ajtTrialOrderSub',str(subNum),'.txt']),'w')
+f = open(''.join(['SWOPstims\\subjectStims\\ajtTrialOrderSub',str(subNum),'.txt']),'w')
 for line in newStim:
 	f.write('\t'.join(line))
 	f.write('\n')
 f.close()
 
 # Save instructions
-f = open('ERP_stims\\expInstr.txt','r')	
+f = open('SWOPstims\\stimTextFiles\\expInstr.txt','r')	
 g = csv.reader(f,delimiter = '\t')
 f2 = open(''.join(['ERP_stims\\expInstr',str(subNum),'.txt']),'w')
 instr1 = ' '.join(["If it's good, press %s."%responses[1], str('\n'), "If it's bad, press %s."%responses[0],str('\n\n'),"Appuyez sur ESPACE pour continuer."])
