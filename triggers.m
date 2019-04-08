@@ -1,7 +1,11 @@
-% Install ffmpeg
-% For each video, identifier and time (ms) csv of time(s) of critical frame, then loop over to
-% produce .wav audio trigger files. Once .wav files are produced, ffmpeg
-% combine wav and .mp4 files into .avi.
+% A script for implementing binary audio triggers in video stimuli for EEG recordings
+% You must already have FFmpeg installed for this to work
+% You also need a .csv file containing the identifiers of all your files, and the time(s) in ms
+% that you want the trigger(s) to be.
+% For each ID in the file, it reads the length of the video, creates a .wav audio track 
+% that is all 0 except for the 50ms before the moment where you want your trigger (where 
+% it is 1 instead). It then calls FFmpeg to combine the video and audio files, and deletes
+% the .wav file as it is no longer necessary.
 
 % Do we want multiple channels for triggers in different dimensions?
 
