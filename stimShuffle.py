@@ -1,11 +1,14 @@
 import os, csv, random
 
 #os.chdir('C:\\Users\\jdyea\\OneDrive\\MoDyCo\\SWOP')
-# os.chdir('C:\\Users\\S2CH\\Desktop\\Experiments\\eprime')
+os.chdir('C:\\Users\\AdminS2CH\\Desktop\\Experiments\\eprime')
 #%%
 catLabels = [112,114,122,124,131,132,133,134,141,142,143,144,212,214,222,224,
 			 231,232,233,234,241,242,243,244]
-subNum = int(input("Subject number: "))
+#subNum = int(input("Subject number: "))
+subNum = 900
+
+nLists = 6
 
 # Assign list number to even/odd subjects
 if subNum % 2 == 1:
@@ -70,11 +73,16 @@ for block in range(20): # 24 categories x 20 blocks = 480 items
 f.close()
 # f = open(''.join(['SWOPstims\\stimTextFiles\\SUBJECT',str(subNum),'.txt']),'w')
 # f.close()
-for block in range(1,3):
-	f = open(''.join(['SWOPstims\\stimTextFiles\\stimBlock',str(block),'.txt']),'w')
+
+totItems = len(newStim)
+iPerList = int(totItems / nLists)
+
+for listNum in range(1,7):
+	f = open(''.join(['SWOPstims\\stimTextFiles\\stimBlock',str(listNum),'.txt']),'w')
 	f.write('\t'.join(allItems[0]))
 	f.write('\n')
-	for sent in newStim[:240]:
+	start = (listNum-1)*(iPerList)
+	for sent in newStim[start : start + iPerList]:
 		f.write('\t'.join(sent))
 		f.write('\n')
 	f.close()

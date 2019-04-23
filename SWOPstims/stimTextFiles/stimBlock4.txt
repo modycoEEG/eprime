@@ -1,0 +1,81 @@
+Weight	Nested	Procedure	stimulussentence	sentID	Condition	label	CriticalWord	repCorr
+1		trialprocedure	Hemma i Malmö skrev han kortet med blommorna till Anna.	685	2	231	5	j
+1		trialprocedure	Kanske kröp pojken in under filten.	550	2	224	3	j
+1		trialprocedure	Idag flickan sjöng hemma i köket.	828	1	144	2	f
+1		trialprocedure	Kanske han satt på soffan och tänkte.	584	1	122	2	f
+1		trialprocedure	Hemma pojken tittade på Maria och log.	809	1	134	2	f
+1		trialprocedure	Kanske pojken sjöng för Sara.	712	1	124	2	f
+1		trialprocedure	Idag på morgonen drack pojken upp.	585	2	243	5	j
+1		trialprocedure	Idag vaknade han under filten.	792	2	242	3	j
+1		trialprocedure	Idag på eftermiddagen flickan sjöng hemma i köket.	751	1	143	4	f
+1		trialprocedure	Hemma skrev han kortet med blommorna till Anna.	592	2	232	3	j
+1		trialprocedure	Hemma i Malmö smakade pojken alla de nybakade kakorna.	624	2	233	5	j
+1		trialprocedure	Naturligtvis han dansade hela dagen hemma i vardagsrummet.	907	1	112	2	f
+1		trialprocedure	Naturligtvis målade flickan vackra blommor på en tavla.	568	2	214	3	j
+1		trialprocedure	Idag hon pratade med sin fröken.	806	1	142	2	f
+1		trialprocedure	Naturligtvis flickan vaknade på soffan.	794	1	114	2	f
+1		trialprocedure	Idag spelade pojken fotboll på gräsmattan.	754	2	244	3	j
+1		trialprocedure	Kanske vilade hon.	648	2	222	3	j
+1		trialprocedure	Hemma i Lund han skrattade.	541	1	131	4	f
+1		trialprocedure	Hemma han badade gärna.	511	1	132	2	f
+1		trialprocedure	Naturligtvis sprang hon på gräsmattan tillsammans med Anna.	950	2	212	3	j
+1		trialprocedure	Hemma hos Eric pojken vaknade.	689	1	133	4	f
+1		trialprocedure	Idag efter skolan skrattade hon åt Eric när han busade.	652	2	241	5	j
+1		trialprocedure	Idag på rasten hon åt sin mat.	672	1	141	4	f
+1		trialprocedure	Hemma låg flickan på soffan och tänkte.	893	2	234	3	j
+1		trialprocedure	Idag hon satt.	767	1	142	2	f
+1		trialprocedure	Naturligtvis flickan tystnade för att de var elaka.	898	1	114	2	f
+1		trialprocedure	Idag jobbade han gärna.	538	2	242	3	j
+1		trialprocedure	Idag på morgonen tvättade han.	558	2	241	5	j
+1		trialprocedure	Naturligtvis hon drack mjölk.	840	1	112	2	f
+1		trialprocedure	Kanske flickan hoppade.	599	1	124	2	f
+1		trialprocedure	Kanske dansade flickan bara med Eric och Anders.	645	2	224	3	j
+1		trialprocedure	Hemma jobbade han gärna.	763	2	232	3	j
+1		trialprocedure	Naturligtvis sjöng flickan sånger där inne.	769	2	214	3	j
+1		trialprocedure	Hemma pojken tystnade för att lyssna på fåglarna.	528	1	134	2	f
+1		trialprocedure	Hemma läste flickan en bok för Sara.	742	2	234	3	j
+1		trialprocedure	Hemma i Malmö sov pojken på soffan.	620	2	233	5	j
+1		trialprocedure	Hemma hon pratade med Eva och Maria.	816	1	132	2	f
+1		trialprocedure	Naturligtvis målade hon vackra blommor på en tavla.	588	2	212	3	j
+1		trialprocedure	Kanske han sjöng för Sara.	692	1	122	2	f
+1		trialprocedure	Hemma i Lund flickan talade med Erik.	908	1	133	4	f
+1		trialprocedure	Idag på rasten flickan tittade på alla de vackra blommorna.	904	1	143	4	f
+1		trialprocedure	Idag efter skolan hon klättrade upp i trädet snabbt.	641	1	141	4	f
+1		trialprocedure	Idag på eftermiddagen hoppade pojken på studsmattan hela kvällen.	671	2	243	5	j
+1		trialprocedure	Hemma i Sverige han väntade på att Anna skulle komma.	755	1	131	4	f
+1		trialprocedure	Kanske smakade hon Annas kakor.	701	2	222	3	j
+1		trialprocedure	Idag dansade pojken runt.	774	2	244	3	j
+1		trialprocedure	Idag pojken tvättade.	932	1	144	2	f
+1		trialprocedure	Hemma i Sverige sprang han till Sara.	529	2	231	5	j
+1		trialprocedure	Hemma hon läste en bok för Sara.	894	1	132	2	f
+1		trialprocedure	Naturligtvis berättade pojken vad som hade hänt.	905	2	214	3	j
+1		trialprocedure	Kanske pojken väntade på henne i skoaffären.	603	1	124	2	f
+1		trialprocedure	Kanske han drack mjölk.	586	1	122	2	f
+1		trialprocedure	Hemma i Lund satt hon vid sin bänk.	573	2	231	5	j
+1		trialprocedure	Hemma pojken klättrade upp till skåpen.	852	1	134	2	f
+1		trialprocedure	Idag på morgonen pojken vaknade under filten.	693	1	143	4	f
+1		trialprocedure	Naturligtvis åt hon Annas kakor.	890	2	212	3	j
+1		trialprocedure	Kanske arbetade hon.	927	2	222	3	j
+1		trialprocedure	Hemma joggade pojken.	509	2	234	3	j
+1		trialprocedure	Hemma hos Eva flickan pratade med Eva och Maria.	664	1	133	4	f
+1		trialprocedure	Idag spelade han fotboll på gräsmattan.	759	2	242	3	j
+1		trialprocedure	Idag flickan berättade om sin nya mössa.	748	1	144	2	f
+1		trialprocedure	Hemma tittade han på Maria och log.	533	2	232	3	j
+1		trialprocedure	Kanske ramlade pojken och blev ledsen.	687	2	224	3	j
+1		trialprocedure	Idag efter rasten hon ramlade.	864	1	141	4	f
+1		trialprocedure	Idag på rasten läste hon tidningen.	545	2	241	5	j
+1		trialprocedure	Idag han tvättade.	559	1	142	2	f
+1		trialprocedure	Hemma i Lund hon sjöng medan hon städade.	732	1	131	4	f
+1		trialprocedure	Idag efter lunchen städade pojken undan sina kläder.	912	2	243	5	j
+1		trialprocedure	Naturligtvis han betalade godiset själv med sina pengar.	859	1	112	2	f
+1		trialprocedure	Hemma i Lund drack flickan saft.	567	2	233	5	j
+1		trialprocedure	Naturligtvis flickan sprang på gräsmattan tillsammans med Anna.	548	1	114	2	f
+1		trialprocedure	Idag målade pojken en bild av en sjö.	879	2	244	3	j
+1		trialprocedure	Kanske grät hon för att de var elaka.	604	2	222	3	j
+1		trialprocedure	Hemma hos Lars dansade hon hela dagen.	601	2	231	5	j
+1		trialprocedure	Idag klättrade hon upp i trädet snabbt.	505	2	242	3	j
+1		trialprocedure	Kanske hon tittade på Saras nya röda klänning.	507	1	122	2	f
+1		trialprocedure	Hemma hoppade pojken högt.	608	2	234	3	j
+1		trialprocedure	Hemma i Lund klättrade pojken upp till skåpen.	668	2	233	5	j
+1		trialprocedure	Naturligtvis vilade hon bakom trädet.	847	2	212	3	j
+1		trialprocedure	Hemma han handlade upp alla pengarna.	793	1	132	2	f
