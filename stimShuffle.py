@@ -76,7 +76,7 @@ f.close()
 totItems = len(newStim)
 iPerList = int(totItems / nLists)
 
-for listNum in range(1,7):
+for listNum in range(1, nLists + 1):
 	f = open(''.join(['SWOPstims\\stimTextFiles\\stimBlock',str(listNum),'.txt']),'w')
 	f.write('\t'.join(allItems[0]))
 	f.write('\n')
