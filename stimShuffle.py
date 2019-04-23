@@ -5,8 +5,7 @@ os.chdir('C:\\Users\\AdminS2CH\\Desktop\\Experiments\\eprime')
 #%%
 catLabels = [112,114,122,124,131,132,133,134,141,142,143,144,212,214,222,224,
 			 231,232,233,234,241,242,243,244]
-#subNum = int(input("Subject number: "))
-subNum = 900
+subNum = int(input("Subject number: "))
 
 nLists = 6
 
