@@ -1,81 +1,49 @@
 Weight	Nested	Procedure	stimulussentence	sentID	Condition	label	CriticalWord	repCorr
-1		trialprocedure	Hemma hos Anna grät flickan.	885	2	233	5	j
-1		trialprocedure	Kanske pojken väntade på henne i skoaffären.	603	1	124	2	f
-1		trialprocedure	Idag pratade flickan med sin fröken.	903	2	244	3	j
-1		trialprocedure	Hemma pojken tystnade för att lyssna på fåglarna.	528	1	134	2	f
-1		trialprocedure	Idag på eftermiddagen pojken sov i gräset.	849	1	143	4	f
-1		trialprocedure	Naturligtvis hon vaknade på soffan.	768	1	112	2	f
-1		trialprocedure	Idag efter skolan han arbetade.	779	1	141	4	f
-1		trialprocedure	Hemma grät flickan.	805	2	234	3	j
-1		trialprocedure	Kanske målade hon en bild på hunden.	783	2	222	3	j
-1		trialprocedure	Hemma i Lund hon sjöng medan hon städade.	732	1	131	4	f
-1		trialprocedure	Hemma i Malmö pojken åt godiset själv.	504	1	133	4	f
-1		trialprocedure	Hemma klättrade han upp till skåpen.	954	2	232	3	j
-1		trialprocedure	Idag flickan skrattade åt Eric när han busade.	665	1	144	2	f
-1		trialprocedure	Kanske hon svarade att Erik var hungrig.	630	1	122	2	f
-1		trialprocedure	Idag på rasten letade flickan efter bollen nere vid sjön.	502	2	243	5	j
-1		trialprocedure	Idag hon pratade med sin fröken.	806	1	142	2	f
-1		trialprocedure	Naturligtvis flickan vilade bakom trädet.	702	1	114	2	f
-1		trialprocedure	Naturligtvis vilade hon bakom trädet.	847	2	212	3	j
-1		trialprocedure	Idag han smakade mjölken.	948	1	142	2	f
-1		trialprocedure	Idag efter rasten pratade flickan med sin fröken.	493	2	243	5	j
-1		trialprocedure	Idag efter lunchen han smakade mjölken.	861	1	141	4	f
-1		trialprocedure	Hemma i Sverige ringde han och alla gick in.	935	2	231	5	j
-1		trialprocedure	Hemma i Lund hon arbetade medan Sara lekte.	682	1	131	4	f
-1		trialprocedure	Idag på eftermiddagen sjöng hon hemma i köket.	842	2	241	5	j
-1		trialprocedure	Hemma smakade han alla de nybakade kakorna.	731	2	232	3	j
-1		trialprocedure	Hemma han vaknade.	887	1	132	2	f
-1		trialprocedure	Hemma pojken svarade på frågan.	617	1	134	2	f
-1		trialprocedure	Naturligtvis han läste läxan.	750	1	112	2	f
-1		trialprocedure	Hemma i Malmö joggade pojken.	721	2	233	5	j
-1		trialprocedure	Idag pojken vaknade under filten.	510	1	144	2	f
-1		trialprocedure	Idag talade hon med Eva och Maria.	657	2	242	3	j
-1		trialprocedure	Kanske flickan vaknade.	798	1	124	2	f
-1		trialprocedure	Idag satt flickan.	704	2	244	3	j
-1		trialprocedure	Naturligtvis klättrade pojken upp i trädet snabbt.	916	2	214	3	j
-1		trialprocedure	Idag efter skolan pojken betalade.	649	1	143	4	f
-1		trialprocedure	Hemma joggade pojken.	509	2	234	3	j
-1		trialprocedure	Kanske låg han och läste tidningen.	593	2	222	3	j
-1		trialprocedure	Kanske hon vaknade.	686	1	122	2	f
-1		trialprocedure	Hemma hos Lars flickan dansade hela dagen.	595	1	133	4	f
-1		trialprocedure	Kanske kröp pojken in under filten.	550	2	224	3	j
-1		trialprocedure	Hemma han badade gärna.	511	1	132	2	f
-1		trialprocedure	Idag låg flickan i soffan och läste.	819	2	244	3	j
-1		trialprocedure	Idag på morgonen flickan tystnade när hon fick se hunden.	934	1	143	4	f
-1		trialprocedure	Hemma i Sverige pojken väntade på att Anna skulle komma.	874	1	133	4	f
-1		trialprocedure	Kanske pojken satt på soffan och tänkte.	786	1	124	2	f
-1		trialprocedure	Hemma sprang han till Sara.	560	2	232	3	j
-1		trialprocedure	Idag vaknade han under filten.	792	2	242	3	j
-1		trialprocedure	Kanske läste pojken tidningen ifred på sitt rum.	945	2	224	3	j
-1		trialprocedure	Kanske han sjöng för Sara.	692	1	122	2	f
-1		trialprocedure	Hemma i Lund han skrattade.	541	1	131	4	f
-1		trialprocedure	Idag på morgonen han ringde till sin pappa.	484	1	141	4	f
-1		trialprocedure	Hemma i Lund satt hon vid sin bänk.	573	2	231	5	j
-1		trialprocedure	Naturligtvis flickan smakade.	633	1	114	2	f
-1		trialprocedure	Hemma sparkade pojken boll.	844	2	234	3	j
-1		trialprocedure	Hemma pojken klättrade upp till skåpen.	852	1	134	2	f
-1		trialprocedure	Naturligtvis joggade flickan med Sara I skogen.	715	2	214	3	j
-1		trialprocedure	Idag på morgonen sprang han hem till Maria.	960	2	241	5	j
-1		trialprocedure	Naturligtvis skrattade hon.	860	2	212	3	j
-1		trialprocedure	Naturligtvis han klättrade upp i trädet snabbt.	611	1	112	2	f
-1		trialprocedure	Idag flickan letade efter bollen nere vid sjön.	681	1	144	2	f
-1		trialprocedure	Idag hon ramlade.	639	1	142	2	f
-1		trialprocedure	Kanske skrev hon i sin bok.	646	2	222	3	j
-1		trialprocedure	Idag på morgonen dansade pojken runt.	557	2	243	5	j
-1		trialprocedure	Hemma i Sverige hoppade pojken högt.	512	2	233	5	j
-1		trialprocedure	Hemma pojken smakade alla de nybakade kakorna.	562	1	134	2	f
-1		trialprocedure	Hemma hos Anders flickan tvättade filten.	516	1	133	4	f
-1		trialprocedure	Idag på eftermiddagen han hoppade på studsmattan hela kvällen.	797	1	141	4	f
-1		trialprocedure	Hemma pratade flickan med Eva och Maria.	875	2	234	3	j
-1		trialprocedure	Naturligtvis pojken ramlade ner från trädet.	892	1	114	2	f
-1		trialprocedure	Naturligtvis sjöng flickan sånger där inne.	769	2	214	3	j
-1		trialprocedure	Kanske tystnade flickan.	655	2	224	3	j
-1		trialprocedure	Idag sprang han hem till Maria.	581	2	242	3	j
-1		trialprocedure	Idag flickan joggade hela vägen hem.	610	1	144	2	f
-1		trialprocedure	Idag sprang pojken hem till Maria.	487	2	244	3	j
-1		trialprocedure	Hemma i Lund hon talade med Erik.	866	1	131	4	f
-1		trialprocedure	Kanske skrattade hon.	602	2	222	3	j
-1		trialprocedure	Hemma joggade han.	801	2	232	3	j
-1		trialprocedure	Idag efter skolan flickan låg i soffan och läste.	829	1	143	4	f
-1		trialprocedure	Hemma hos Lars dansade hon hela dagen.	601	2	231	5	j
-1		trialprocedure	Hemma i Malmö sov pojken på soffan.	620	2	233	5	j
+1		trialprocedure	Idag vilade hon.	438	2	242	3	j
+1		trialprocedure	Hemma i Lund talade hon med Erik.	386	2	231	5	j
+1		trialprocedure	Kanske han läste tidningen ifred på sitt rum.	10	1	122	2	f
+1		trialprocedure	Idag läste flickan tidningen.	200	2	244	3	j
+1		trialprocedure	Hemma i Sverige hon ramlade.	134	1	131	4	f
+1		trialprocedure	Hemma hon sjöng medan hon städade.	208	1	132	2	f
+1		trialprocedure	Idag pojken spelade fotboll på gräsmattan.	274	1	144	2	f
+1		trialprocedure	Idag efter skolan låg hon i soffan och läste.	473	2	241	5	j
+1		trialprocedure	Hemma i Sverige spelade pojken match.	341	2	233	5	j
+1		trialprocedure	Hemma i Malmö pojken sov på soffan.	140	1	133	4	f
+1		trialprocedure	Hemma åt pojken godiset själv.	333	2	234	3	j
+1		trialprocedure	Idag på morgonen pojken dansade runt.	77	1	143	4	f
+1		trialprocedure	Idag efter lunchen han spelade fotboll på gräsmattan.	332	1	141	4	f
+1		trialprocedure	Hemma handlade han upp alla pengarna.	313	2	232	3	j
+1		trialprocedure	Idag efter skolan låg flickan i soffan och läste.	349	2	243	5	j
+1		trialprocedure	Kanske letade pojken efter Sara som lekte.	42	2	224	3	j
+1		trialprocedure	Kanske pojken kröp in under filten.	70	1	124	2	f
+1		trialprocedure	Idag hon tittade på alla de vackra blommorna.	214	1	142	2	f
+1		trialprocedure	Kanske sjöng han för Sara.	212	2	222	3	j
+1		trialprocedure	Naturligtvis badade flickan hemma i kväll.	278	2	214	3	j
+1		trialprocedure	Naturligtvis jobbade han hemma.	138	2	212	3	j
+1		trialprocedure	Naturligtvis han väntade.	226	1	112	2	f
+1		trialprocedure	Naturligtvis flickan handlade tidningen.	162	1	114	2	f
+1		trialprocedure	Hemma pojken handlade upp alla pengarna.	120	1	134	2	f
+1		trialprocedure	Hemma hos Eric vaknade pojken.	209	2	233	5	j
+1		trialprocedure	Kanske pojken spelade kort med farfar.	343	1	124	2	f
+1		trialprocedure	Idag efter rasten hon berättade om sin nya mössa.	450	1	141	4	f
+1		trialprocedure	Kanske  badade flickan.	387	2	224	3	j
+1		trialprocedure	Hemma smakade pojken alla de nybakade kakorna.	82	2	234	3	j
+1		trialprocedure	Naturligtvis han berättade vad som hade hänt.	74	1	112	2	f
+1		trialprocedure	Hemma i Lund hon låg på soffan och tänkte.	246	1	131	4	f
+1		trialprocedure	Idag städade han undan sina kläder.	327	2	242	3	j
+1		trialprocedure	Idag efter skolan betalade pojken.	169	2	243	5	j
+1		trialprocedure	Kanske hon joggade hem.	234	1	122	2	f
+1		trialprocedure	Kanske talade hon med sin fröken.	86	2	222	3	j
+1		trialprocedure	Hemma städade hon hela dagen.	276	2	232	3	j
+1		trialprocedure	Hemma i Sverige badade han gärna.	291	2	231	5	j
+1		trialprocedure	Idag flickan vilade.	401	1	144	2	f
+1		trialprocedure	Idag smakade pojken mjölken.	354	2	244	3	j
+1		trialprocedure	Hemma hon drack saft.	350	1	132	2	f
+1		trialprocedure	Naturligtvis pojken väntade.	249	1	114	2	f
+1		trialprocedure	Hemma hos Anna flickan grät.	405	1	133	4	f
+1		trialprocedure	Naturligtvis dansade han hela dagen hemma i vardagsrummet.	427	2	212	3	j
+1		trialprocedure	Idag han jobbade gärna.	58	1	142	2	f
+1		trialprocedure	Idag på rasten flickan läste tidningen utomhus.	47	1	143	4	f
+1		trialprocedure	Hemma pojken joggade.	29	1	134	2	f
+1		trialprocedure	Naturligtvis åt flickan Annas kakor.	6	2	214	3	j
+1		trialprocedure	Idag på rasten åt hon sin mat.	192	2	241	5	j
